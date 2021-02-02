@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("que cada uno cree su rama");
         System.out.println("que pasen cosas");
+        System.out.println("Solo cierra las issues desde la rama master");
     }
 }
